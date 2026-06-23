@@ -213,9 +213,8 @@ The probabilistic structure of the VAE produces clean, averaged climate simulati
 
 ```text
 .
-├── Vu_angela_proj2.ipynb
-├── project2.slurm
 ├── README.md
+├── Vu_angela_proj2.ipynb
 └── climate dataset files
 ```
 
